@@ -18,11 +18,15 @@
 * Compatible with a wide variety of control electronics
 * Mean Well 350 watt power supply
 
+#### Print Quality Sample (more coming soon)
+
+![](img/layers.jpg)
+
 ## CoreXY Motion System
 
 ![](img/beltrouting.png)
 
-smallXY uses the simplest possible CoreXY motion system with no crossed belt paths, stationary motors, and no unnecessary idler pulleys. Idlers are constructed from pairs of FR623ZZ ball bearings for the best balance of cost to performance. Belt tensioning is integrated into the motor mounts so that the belts can be easily tensioned by turning screws accessible from the front of the printer. The rigid frame, linear rails, and a lightweight X-axis and toolhead allow high speed and very fast accelerations (at least 6000mm/s²).
+SmallXY uses the simplest possible CoreXY motion system with no crossed belt paths, stationary motors, and no unnecessary idler pulleys. Idlers are constructed from pairs of FR623ZZ ball bearings for the best balance of cost to performance. Belt tensioning is integrated into the motor mounts so that the belts can be easily tensioned by turning screws accessible from the front of the printer. The rigid frame, linear rails, and a lightweight X-axis and toolhead allow high speed and very fast accelerations (at least 6000mm/s²).
 
 ![](img/motortensioner.png)
 
