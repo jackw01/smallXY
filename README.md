@@ -18,9 +18,11 @@
 * Compatible with a wide variety of control electronics
 * Mean Well 350 watt power supply
 
-#### Print Quality Sample (more coming soon)
+#### Print Quality Samples (more coming soon)
 
-![](img/layers.jpg)
+![](img/sample1.jpg)
+
+![](img/sample2.jpg)
 
 ## CoreXY Motion System
 
