@@ -18,7 +18,7 @@
 * Compatible with a wide variety of control electronics
 * Mean Well 350 watt power supply
 
-#### Print Quality Samples (more coming soon)
+#### Print Quality Samples
 
 ![](img/sample1.jpg)
 
@@ -46,8 +46,13 @@ Almost all of the printer's wiring is integrated into one fully connectorized ha
 
 The toolhead is connected with JST SM connectors mounted in a 3D printed part for ease of servicing. The single 12-conductor high flexibility cable is supported by a 3D printed mount to eliminate any strain on the connectors.
 
-## Design Files and BOM
-Coming soon.
+## Design Files
+
+**Disclaimer:** I cannot guarantee the correctness or completeness of anything in these design files and I am not planning to provide assembly instructions. These files are provided for inspiration and reference purposes only.
+
+A STEP file of the CAD model, the BOM, and the Marlin configuration files can be downloaded from this GithHub repository. The latest version of the Solidworks 2020 CAD source files can be downloaded [here](https://workbench.grabcad.com/workbench/projects/gcE4_nd5ZVmsx_kgBHyB1wqYj7J80Bo0aavsQ_ukKZb6I6#/space/gccWt96S3aIfpnmZw99CCyJWk9YLHOaTK3aYx5E1uazplE). 
+
+This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
 
 
 ![](img/DSCF6911.jpg)
