@@ -4,12 +4,12 @@
 
 ![](img/DSCF6978.jpg)
 
-## Specifications
-* Build volume: 200x160x100mm
+## Specifications (Version 1.0 - March 2021)
+* Build volume: 200x160x120mm
 * Frame: 330x300x300mm
 * Weight: ~8kg
 * Very rigid 2020 aluminum extrusion frame
-* Capable of 150mm/s+ print speeds and 6000mm/s²+ acceleration
+* Capable of 150mm/s+ print speeds and 8000mm/s²+ acceleration
 * 12mm linear rails on X and Y axes
 * Leadscrew-driven Z axis with 10mm round linear shafts
 * Simple mechanical design and clean cable management
