@@ -1,6 +1,6 @@
 # smallXY
 
-![](img/DSCF6990.jpg)
+![](img/6470-FUJI8289.jpg)
 ![](img/DSCF6978.jpg)
 
 ## Specifications (Version 1.0 - March 2021)
@@ -24,7 +24,7 @@
 ![](img/4850-FUJI8277.jpg)
 ![](img/4860-FUJI8273.jpg)
 
-Printed in eSUN PETG with 0.1mm layers. Maximum speed of 150mm/s on the bolt head and 50mm/s on the threaded section (necessary for cooling) with 10000mm/s² acceleration.
+Printed in eSUN PETG with 0.1mm layers. Maximum speed of 150mm/s on the bolt head and 50mm/s (necessary for cooling) on the threaded section with 10000mm/s² acceleration.
 
 ## CoreXY Motion System
 
@@ -36,7 +36,7 @@ SmallXY uses the simplest possible CoreXY motion system with front-mounted stati
 
 ## Toolhead
 
-![](img/DSCF6974.jpg)
+![](img/6460-FUJI8297.jpg)
 
 The toolhead fits an E3D V6 hotend, powerful 40x40x20mm part cooling fan, and inductive probe into a very compact 46mm wide package weighing less than 100g. The inductive probe is used for Z homing and optionally bed leveling using magnets attached to the underside of the heated bed.
 
@@ -58,6 +58,4 @@ This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 Inter
 
 
 ![](img/4740-DSCF6912.jpg)
-![](img/DSCF6979.jpg)
-![](img/DSCF6982.jpg)
-![](img/DSCF6981.jpg)
+![](img/6450-FUJI8294.jpg)
