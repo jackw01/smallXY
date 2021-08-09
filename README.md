@@ -17,14 +17,24 @@
 * Compatible with a wide variety of control electronics
 * Mean Well 350 watt power supply
 
+
+### Print Quality Sample - Bag Clip
+
+Grid squares are 1/2in (12.7mm). Printed in PETG with 0.2mm layers. All print speeds 150mm/s except for external perimeters at 60mm/s; 10000mm/s² acceleration.
+
+![](img/2048-8360-FUJI8497.jpg)
+![](img/2048-8370-FUJI8494.jpg)
+![](img/2048-8380-FUJI8491.jpg)
+![](img/2048-8390-FUJI8492.jpg)
+
 ### Print Quality Sample - M8 Hex Bolt
+
+Printed in PETG with 0.1mm layers. Maximum speed of 150mm/s on the bolt head and 50mm/s (necessary for cooling) on the threaded section; 10000mm/s² acceleration.
 
 ![](img/4830-FUJI8286.jpg)
 ![](img/4840-FUJI8282.jpg)
 ![](img/4850-FUJI8277.jpg)
 ![](img/4860-FUJI8273.jpg)
-
-Printed in PETG with 0.1mm layers. Maximum speed of 150mm/s on the bolt head and 50mm/s (necessary for cooling) on the threaded section with 10000mm/s² acceleration.
 
 ## CoreXY Motion System
 
