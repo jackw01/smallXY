@@ -20,7 +20,7 @@
 
 ### Print Quality Sample - Bag Clip
 
-Grid squares are 1/2in (12.7mm). Printed in PETG with 0.2mm layers. All print speeds 150mm/s except for external perimeters at 60mm/s; 10000mm/s² acceleration.
+Grid squares are 1/2in (12.7mm). Printed in PETG with 0.2mm layers and 0.5mm line width. All print speeds 150mm/s except for external perimeters at 60mm/s; 10000mm/s² acceleration.
 
 ![](img/2048-8360-FUJI8497.jpg)
 ![](img/2048-8370-FUJI8494.jpg)
@@ -29,7 +29,7 @@ Grid squares are 1/2in (12.7mm). Printed in PETG with 0.2mm layers. All print sp
 
 ### Print Quality Sample - M8 Hex Bolt
 
-Printed in PETG with 0.1mm layers. Maximum speed of 150mm/s on the bolt head and 50mm/s (necessary for cooling) on the threaded section; 10000mm/s² acceleration.
+Printed in PETG with 0.1mm layers and 0.5mm line width. Maximum speed of 150mm/s on the bolt head and 50mm/s (necessary for cooling) on the threaded section; 10000mm/s² acceleration.
 
 ![](img/4830-FUJI8286.jpg)
 ![](img/4840-FUJI8282.jpg)
