@@ -64,7 +64,7 @@ The toolhead is connected with JST SM connectors mounted in a 3D printed part fo
 
 **Disclaimer:** I cannot guarantee the correctness or completeness of these design files and I am not planning to provide assembly instructions. Don't try to build this unless you know what you're doing.
 
-STEP files of the v0.1 (May 2020) and v1.0 (March 2021) CAD models, which may not have the latest changes, the BOM, and the Marlin configuration files can be downloaded from this GitHub repository. The latest version of the Solidworks 2020 CAD source files and STL files for 3D printable parts can be downloaded [here](https://workbench.grabcad.com/workbench/projects/gcE4_nd5ZVmsx_kgBHyB1wqYj7J80Bo0aavsQ_ukKZb6I6#/space/gccWt96S3aIfpnmZw99CCyJWk9YLHOaTK3aYx5E1uazplE).
+STEP files of the v0.1 (May 2020) and v1.0 (March 2021) CAD models, which may not have the latest changes, can be downloaded from this GitHub repository. The latest version of the Solidworks 2020 CAD source files, STL files for 3D printable parts, the bill of materials, and Marlin configuration files can be downloaded [here](https://1drv.ms/f/s!AsRZF_y9JrDUn5YstvfhQN0uAOajxg?e=yrKd5q).
 
 This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
 
